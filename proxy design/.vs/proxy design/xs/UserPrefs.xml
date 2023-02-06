@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{33BFF8E3-D93B-4A56-86C4-83F1CCB7E8C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.proxy_220design PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="proxy design/Program.cs">
+    <Files>
+      <File FileName="proxy design/Program.cs" Line="13" Column="14" />
+      <File FileName="proxy design/EmptyClass.cs" Line="5" Column="3" />
+      <File FileName="proxy design/ProxyInternet.cs" Line="16" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proxy design" expanded="True">
+            <Node name="proxy design" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

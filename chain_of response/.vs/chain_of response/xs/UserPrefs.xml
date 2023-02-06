@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3C8DAD7A-B298-4DB2-9B91-7048CD0C1379}|Default">
+  <MonoDevelop.Ide.ItemProperties.chain__of_220response PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chain_of response/Processor.cs">
+    <Files>
+      <File FileName="chain_of response/EmptyClass.cs" Line="15" Column="4" />
+      <File FileName="chain_of response/Program.cs" Line="8" Column="154" />
+      <File FileName="chain_of response/EmptyClass.cs" Line="12" Column="4" />
+      <File FileName="chain_of response/EmptyClass.cs" Line="20" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chain_of response" expanded="True">
+            <Node name="chain_of response" expanded="True">
+              <Node name="Processor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

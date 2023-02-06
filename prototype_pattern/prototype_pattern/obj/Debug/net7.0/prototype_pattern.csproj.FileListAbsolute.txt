@@ -1,0 +1,15 @@
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/bin/Debug/net7.0/prototype_pattern
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/bin/Debug/net7.0/prototype_pattern.deps.json
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/bin/Debug/net7.0/prototype_pattern.runtimeconfig.json
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/bin/Debug/net7.0/prototype_pattern.dll
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/bin/Debug/net7.0/prototype_pattern.pdb
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.csproj.AssemblyReference.cache
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.AssemblyInfoInputs.cache
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.AssemblyInfo.cs
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.csproj.CoreCompileInputs.cache
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.dll
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/refint/prototype_pattern.dll
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.pdb
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/prototype_pattern.genruntimeconfig.cache
+/Users/akshaychatterjee/Documents/design_patterns/prototype_pattern/prototype_pattern/obj/Debug/net7.0/ref/prototype_pattern.dll
